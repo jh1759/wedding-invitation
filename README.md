@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 웹 청첩장
 
 React + Vite + TypeScript + Tailwind CSS로 제작된 단일 페이지 웹 청첩장입니다.
@@ -186,3 +187,6 @@ MIT
 
 이슈 및 풀 리퀘스트를 환영합니다!
 
+=======
+# wedding-invitation
+>>>>>>> 0930514fdbe449b388053525b78d170c2607376f
