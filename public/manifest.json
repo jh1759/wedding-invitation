@@ -1,0 +1,19 @@
+{
+  "name": "신재훈 & 박연정 결혼식",
+  "short_name": "결혼식 초대장",
+  "description": "2026년 5월 24일, 여러분을 따뜻하게 초대합니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F6",
+  "theme_color": "#FFF9F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
